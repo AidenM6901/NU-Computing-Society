@@ -1,0 +1,122 @@
+[
+  {
+    "location": "CIS Building",
+    "latitude": 54.97664737110327,
+    "longitude": -1.6069764332400605
+  },
+  {
+    "location": "Haymarket Metro",
+    "latitude": 54.97749015491778,
+    "longitude": -1.613787902992639
+  },
+  {
+    "location": "Freeman Hospital",
+    "latitude": 55.00238316261214,
+    "longitude": -1.593225418219941
+  },
+  {
+    "location": "The Glasshouse",
+    "latitude": 54.96773048152936,
+    "longitude": -1.6022054539918744
+  },
+  {
+    "location": "Stadium of Light",
+    "latitude": 54.91455449128867,
+    "longitude": -1.3880686150213803
+  },
+  {
+    "location": "Ben Nevis Peak",
+    "latitude": 56.79698836779024,
+    "longitude": -5.003539810298157
+  },
+  {
+    "location": "John o' Groats signpost",
+    "latitude": 58.64402933986984,
+    "longitude": -3.07004673118408
+  },
+  {
+    "location": "Land's End sign",
+    "latitude": 50.06640646016064,
+    "longitude": -5.714805401229968
+  },
+  {
+    "location": "London Eye",
+    "latitude": 51.503173015033035,
+    "longitude": -0.11955138925722064
+  },
+  {
+    "location": "National Galleries of Scotland",
+    "latitude": 55.95090798026927,
+    "longitude": -3.1956862025040125
+  },
+  {
+    "location": "Eiffel Tower",
+    "latitude": 48.85836301259197,
+    "longitude": 2.294470568276646
+  },
+  {
+    "location": "The Five Swans",
+    "latitude": 54.97773987281025,
+    "longitude": -1.6118079313949756
+  },
+  {
+    "location": "The Biscuit Factory",
+    "latitude": 54.97658187280975,
+    "longitude": -1.5977585025590397
+  },
+  {
+    "location": "Empire State Building",
+    "latitude": 40.74845672735327,
+    "longitude": -73.98566440327144
+  },
+  {
+    "location": "Basílica de la Sagrada Família",
+    "latitude": 41.403497749476244,
+    "longitude": 2.174331824351451
+  },
+  {
+    "location": "Cologne Cathedral",
+    "latitude": 50.94125809043831,
+    "longitude": 6.958238481876928
+  },
+  {
+    "location": "Antwerp Central Station",
+    "latitude": 51.21732676794211,
+    "longitude": 4.421156324755327
+  },
+  {
+    "location": "Discovery Museum",
+    "latitude": 54.96941921431057,
+    "longitude": -1.624459802559416
+  },
+  {
+    "location": "Great North Museum",
+    "latitude": 54.980293648383,
+    "longitude": -1.6130121344857733
+  },
+  {
+    "location": "St James Park",
+    "latitude": 54.97566344533222,
+    "longitude": -1.6216810340429646
+  },
+  {
+    "location": "Tokyo Tower",
+    "latitude": 35.65855432089243,
+    "longitude": 139.74536852350425
+  },
+  {
+    "location": "Grainer Market",
+    "latitude": 54.9728201785214,
+    "longitude": -1.6148960309777303
+  },
+  {
+    "location": "The Tyne Bar",
+    "latitude": 54.971637829746186,
+    "longitude": -1.588213415749954
+  },
+  {
+    "location": "Vertu Motors Arena",
+    "latitude": 54.96366222431334,
+    "longitude": -1.6373729424606627
+  }
+]
